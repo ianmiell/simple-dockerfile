@@ -1,7 +1,7 @@
 #!/bin/bash -e
 
 # Declare variable 
-AWS_ACCOUNT_ID=436350383194
+AWS_ACCOUNT_ID=140124015873
 EB_REGION=us-east-1
 DOCKER_REPO=ml-app
 
